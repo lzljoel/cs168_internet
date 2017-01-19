@@ -1,0 +1,13 @@
+traceroute to twitter.com (199.59.148.10), 64 hops max, 52 byte packets
+ 1  [AS0] 10.0.0.1 (10.0.0.1)  1.667 ms  2.418 ms  1.206 ms  1.189 ms  1.159 ms
+ 2  [AS7922] 96.120.89.245 (96.120.89.245)  10.130 ms  11.592 ms  23.097 ms  9.662 ms  17.378 ms
+ 3  [AS33651] te-0-4-0-18-sur04.pinole.ca.sfba.comcast.net (68.87.196.1)  10.022 ms  9.191 ms  13.464 ms  11.514 ms  11.311 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  11.153 ms  10.199 ms  11.469 ms  12.129 ms  14.051 ms
+ 5  [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  12.538 ms *
+    [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  17.069 ms
+    [AS33668] hu-0-1-0-2-ar01.hayward.ca.sfba.comcast.net (68.85.154.89)  18.293 ms
+    [AS33668] hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net (68.85.154.93)  10.924 ms
+ 6  [AS3356] lag-14.ear2.sanjose1.level3.net (4.68.72.101)  23.448 ms  16.221 ms  12.718 ms  29.091 ms  22.414 ms
+ 7  [AS3356] 4.16.44.22 (4.16.44.22)  17.207 ms  13.654 ms  14.021 ms  22.408 ms  19.824 ms
+ 8  * * * * *
+ 9  [AS13414] r-199-59-148-10.twttr.com (199.59.148.10)  17.058 ms  15.831 ms  16.107 ms  15.612 ms  15.949 ms

@@ -1,0 +1,12 @@
+{"timestamp": "1478570445.16", "twitter.com": 
+[
+[{"ip": "10.0.0.1", "name": "10.0.0.1", "ASN": "0"}], 
+[{"ip": "96.120.89.245", "name": "96.120.89.245", "ASN": "7922"}], 
+[{"ip": "68.87.196.1", "name": "te-0-4-0-18-sur04.pinole.ca.sfba.comcast.net", "ASN": "33651"}], 
+[{"ip": "162.151.79.133", "name": "be-324-rar01.pleasanton.ca.sfba.comcast.net", "ASN": "7922"}], 
+[{"ip": "68.85.154.77", "name": "hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net", "ASN": "33668"}, {"ip": "68.85.154.225", "name": "hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net", "ASN": "33668"}, {"ip": "68.85.154.89", "name": "hu-0-1-0-2-ar01.hayward.ca.sfba.comcast.net", "ASN": "33668"}, {"ip": "68.85.154.93", "name": "hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net", "ASN": "33668"}], 
+[{"ip": "4.68.72.101", "name": "lag-14.ear2.sanjose1.level3.net", "ASN": "3356"}], [{"ip": "4.16.44.22", "name": "4.16.44.22", "ASN": "3356"}], 
+[{"ip": "None", "name": "None", "ASN": "None"}], 
+[{"ip": "199.59.148.10", "name": "r-199-59-148-10.twttr.com", "ASN": "13414"}]
+]
+}

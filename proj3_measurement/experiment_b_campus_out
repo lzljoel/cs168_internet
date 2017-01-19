@@ -1,0 +1,210 @@
+traceroute to tpr-route-server.saix.net (196.25.9.46), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.416 ms  0.932 ms
+ 2  * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  83.203 ms  14.716 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  12.282 ms  11.901 ms
+ 5  [AS33668] hu-0-1-0-1-ar01.hayward.ca.sfba.comcast.net (68.85.154.85)  15.300 ms
+    [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  16.123 ms
+ 6  [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  12.729 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  18.422 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  12.694 ms  12.707 ms
+ 8  [AS7922] be-10925-cr01.9greatoaks.ca.ibone.comcast.net (68.86.87.158)  15.363 ms  16.431 ms
+ 9  [AS7922] hu-0-12-0-1-pe03.11greatoaks.ca.ibone.comcast.net (68.86.83.130)  15.365 ms  164.253 ms
+10  [AS2914] ae-13.r02.snjsca04.us.bb.gin.ntt.net (129.250.66.33)  19.837 ms  31.955 ms
+11  [AS2914] ae-11.r22.snjsca04.us.bb.gin.ntt.net (129.250.3.120)  19.871 ms  14.427 ms
+12  [AS2914] ae-7.r23.asbnva02.us.bb.gin.ntt.net (129.250.6.238)  213.698 ms  100.306 ms
+13  [AS2914] ae-0.r22.asbnva02.us.bb.gin.ntt.net (129.250.3.84)  100.279 ms  98.463 ms
+14  [AS2914] ae-8.r20.frnkge04.de.bb.gin.ntt.net (129.250.4.97)  239.994 ms *
+15  [AS2914] ae-2.r02.frnkge04.de.bb.gin.ntt.net (129.250.3.94)  203.617 ms  211.980 ms
+16  [AS2914] 212.119.15.66 (212.119.15.66)  168.959 ms  276.174 ms
+17  [AS5713] tbnb-ip-cr-1-atm-1-3-1.telkom-ipnet.co.za (196.43.8.142)  393.621 ms  357.517 ms
+18  [AS5713] tpr-route-server.saix.net (196.25.9.46)  370.526 ms  341.689 ms
+traceroute to route-server.ip-plus.net (193.247.171.26), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.485 ms  3.773 ms
+ 2  * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  11.454 ms  14.794 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  46.653 ms  15.753 ms
+ 5  [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  12.520 ms
+    [AS33668] hu-0-1-0-0-ar01.hayward.ca.sfba.comcast.net (68.85.154.81)  23.891 ms
+ 6  [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  18.656 ms
+    [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  17.384 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  16.031 ms  16.324 ms
+ 8  [AS7922] hu-0-13-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.84.14)  13.234 ms
+    [AS7922] hu-0-14-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.89.234)  104.050 ms
+ 9  [AS3320] 80.156.163.153 (80.156.163.153)  20.098 ms  17.495 ms
+10  [AS3320] 217.239.47.246 (217.239.47.246)  89.113 ms  88.011 ms
+11  [AS3320] 80.157.129.210 (80.157.129.210)  188.820 ms  184.479 ms
+12  * *
+13  [AS3303] route-server.ip-plus.net (193.247.171.26)  293.097 ms  186.995 ms
+traceroute to route-views.oregon-ix.net (128.223.51.103), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.547 ms  3.114 ms
+ 2  * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  11.337 ms  25.183 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  165.615 ms  16.828 ms
+ 5  [AS33668] hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net (68.85.154.93)  31.089 ms  16.835 ms
+ 6  [AS3356] lag-14.ear2.sanjose1.level3.net (4.68.72.101)  15.266 ms  13.054 ms
+ 7  [AS3356] ae-11-11.car1.sacramento1.level3.net (4.69.132.149)  56.615 ms  15.392 ms
+ 8  [AS3356] ae-11-11.car1.sacramento1.level3.net (4.69.132.149)  15.285 ms  18.879 ms
+ 9  [AS3356] university.car1.sacramento1.level3.net (4.53.200.2)  32.450 ms  97.855 ms
+10  [AS3701] eugn-p2-gw.nero.net (207.98.64.194)  37.894 ms
+    [AS3701] eugn-p1-gw.nero.net (207.98.64.192)  34.342 ms
+11  [AS3701] eugn-car1-gw.nero.net (207.98.64.203)  41.621 ms
+    [AS3701] eugn-car1-gw.nero.net (207.98.64.201)  51.981 ms
+12  [AS3701] uonet9-gw.nero.net (207.98.68.182)  34.304 ms  40.262 ms
+13  [AS3582] vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  37.653 ms  40.308 ms
+14  [AS3582] route-views.routeviews.org (128.223.51.103)  74.587 ms *
+traceroute to route-server.east.bb.allstream.net (216.191.14.250), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  16.731 ms  1.010 ms
+ 2  * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  16.384 ms  13.877 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  179.658 ms  15.255 ms
+ 5  [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  12.343 ms
+    [AS33668] hu-0-1-0-0-ar01.hayward.ca.sfba.comcast.net (68.85.154.81)  35.258 ms
+ 6  [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  17.156 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  14.403 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  15.245 ms  16.776 ms
+ 8  [AS7922] be-10925-cr01.9greatoaks.ca.ibone.comcast.net (68.86.87.158)  14.884 ms  21.434 ms
+ 9  [AS7922] hu-0-11-0-0-pe03.11greatoaks.ca.ibone.comcast.net (68.86.85.238)  20.646 ms  16.379 ms
+10  [AS7922] as6461.11greatoaks.ca.ibone.comcast.net (75.149.228.134)  13.623 ms  187.312 ms
+11  [AS0] ae16.cr2.sjc2.us.zip.zayo.com (64.125.31.14)  20.104 ms  14.783 ms
+12  [AS0] ae27.cs2.sjc2.us.eth.zayo.com (64.125.30.232)  32.175 ms  39.412 ms
+13  [AS0] ae3.cs2.sea1.us.eth.zayo.com (64.125.29.41)  33.064 ms  78.442 ms
+14  [AS0] 64.125.29.105 (64.125.29.105)  32.473 ms  35.732 ms
+15  [AS15290] pos4-2.gwy1-tor.bb.allstream.net (216.191.65.205)  76.109 ms  32.645 ms
+16  * *
+17  * *
+18  * *
+19  * *
+20  * *
+21  * *
+22  * *
+23  * *
+24  * *
+25  * *
+26  * *
+27  * *
+28  * *
+29  * *
+30  * *
+31  * *
+32  * *
+33  * *
+34  * *
+35  * *
+36  * *
+37  * *
+38  * *
+39  * *
+40  * *
+41  * *
+42  * *
+traceroute: sendto: Can't assign requested address
+43 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+44 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+45 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+46 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+47 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+48 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+49 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+50 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+51 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+52 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+53 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+54 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+55 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+56 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+57 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+58 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+59 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+60 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+61 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+62 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+63 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *
+traceroute: sendto: Can't assign requested address
+64 traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *traceroute: sendto: Can't assign requested address
+traceroute: wrote route-server.east.bb.allstream.net 52 chars, ret=-1
+ *

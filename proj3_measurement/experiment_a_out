@@ -1,0 +1,263 @@
+traceroute to google.com (216.58.192.14), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.580 ms  0.944 ms  0.900 ms  0.888 ms  2.519 ms
+ 2  * * * * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  13.246 ms  14.277 ms  10.200 ms  10.136 ms  26.305 ms
+ 4  [AS33287] hu-0-1-0-1-sur03.pinole.ca.sfba.comcast.net (68.85.86.61)  10.524 ms
+    [AS33668] hu-0-1-0-0-sur03.pinole.ca.sfba.comcast.net (68.85.155.237)  15.314 ms
+    [AS33287] hu-0-1-0-1-sur03.pinole.ca.sfba.comcast.net (68.85.86.61)  15.551 ms  9.744 ms
+    [AS33668] hu-0-1-0-0-sur03.pinole.ca.sfba.comcast.net (68.85.155.237)  12.607 ms
+ 5  [AS7922] be-224-rar01.pinole.ca.sfba.comcast.net (162.151.78.185)  13.535 ms  22.689 ms  11.111 ms  10.208 ms  10.381 ms
+ 6  [AS33668] hu-0-1-0-4-ar01.santaclara.ca.sfba.comcast.net (68.85.154.25)  13.040 ms
+    [AS33668] hu-0-1-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.154.37)  16.444 ms  16.347 ms
+    [AS33668] hu-0-1-0-5-ar01.santaclara.ca.sfba.comcast.net (68.85.154.241)  13.527 ms
+    [AS33668] hu-0-1-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.33)  16.360 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  17.287 ms  27.012 ms  12.125 ms  12.847 ms  19.649 ms
+ 8  [AS7922] hu-0-11-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.70)  12.277 ms
+    [AS7922] hu-0-13-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.84.14)  16.957 ms
+    [AS7922] hu-0-10-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.26)  38.464 ms
+    [AS7922] hu-0-10-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.86.30)  16.205 ms
+    [AS7922] hu-0-11-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.70)  17.136 ms
+ 9  [AS7922] as15169-3-c.529bryant.ca.ibone.comcast.net (23.30.206.102)  16.016 ms
+    [AS7922] 66.208.228.70 (66.208.228.70)  16.496 ms  16.446 ms
+    [AS7922] as15169-3-c.529bryant.ca.ibone.comcast.net (23.30.206.102)  12.758 ms  18.644 ms
+10  [AS15169] 108.170.242.241 (108.170.242.241)  13.210 ms
+    [AS15169] 108.170.242.81 (108.170.242.81)  15.303 ms  14.784 ms  12.601 ms
+    [AS15169] 108.170.242.241 (108.170.242.241)  15.420 ms
+11  [AS15169] 108.170.237.145 (108.170.237.145)  105.669 ms  13.191 ms
+    [AS15169] 108.170.237.147 (108.170.237.147)  16.146 ms  13.046 ms  14.134 ms
+12  [AS15169] nuq04s29-in-f14.1e100.net (216.58.192.14)  14.489 ms  15.968 ms  23.644 ms  12.868 ms  12.690 ms
+traceroute to facebook.com (31.13.69.228), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.415 ms  1.052 ms  1.050 ms  1.159 ms  1.057 ms
+ 2  * * * * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  15.851 ms  13.861 ms  9.960 ms  29.212 ms  10.068 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  11.950 ms  18.026 ms  12.070 ms  27.313 ms  13.686 ms
+ 5  [AS33668] hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net (68.85.154.93)  11.995 ms
+    [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  16.429 ms
+    [AS33668] hu-0-1-0-0-ar01.hayward.ca.sfba.comcast.net (68.85.154.81)  16.101 ms
+    [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  16.966 ms  17.129 ms
+ 6  [AS33668] hu-0-0-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.249)  13.178 ms
+    [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  16.395 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  16.311 ms
+    [AS33668] hu-0-0-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.249)  103.528 ms
+    [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  17.841 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  16.661 ms  16.864 ms  13.546 ms  19.849 ms  32.579 ms
+ 8  [AS7922] be-10915-cr02.losangeles.ca.ibone.comcast.net (68.86.86.98)  21.646 ms  25.273 ms  23.914 ms  21.194 ms  21.185 ms
+ 9  [AS7922] be-11524-cr02.dallas.tx.ibone.comcast.net (68.86.87.174)  204.139 ms  56.748 ms  53.133 ms  53.830 ms  54.916 ms
+10  [AS7922] be-11424-cr02.56marietta.ga.ibone.comcast.net (68.86.85.21)  105.264 ms  77.419 ms  71.893 ms  74.112 ms  72.156 ms
+11  [AS7922] be-10114-cr02.ashburn.va.ibone.comcast.net (68.86.85.9)  85.833 ms  163.940 ms  85.230 ms  85.697 ms  85.046 ms
+12  [AS7922] be-10142-pe01.ashburn.va.ibone.comcast.net (68.86.86.34)  135.289 ms  88.193 ms  84.000 ms  84.254 ms  84.201 ms
+13  [AS7922] 96-87-8-142-static.hfc.comcastbusiness.net (96.87.8.142)  84.463 ms  84.830 ms  83.581 ms  85.102 ms  137.384 ms
+14  [AS32934] po102.psw01b.iad3.tfbnw.net (31.13.27.247)  85.269 ms
+    [AS32934] po102.psw01c.iad3.tfbnw.net (31.13.28.31)  83.895 ms
+    [AS32934] po102.psw01b.iad3.tfbnw.net (31.13.27.247)  83.805 ms  88.569 ms  163.021 ms
+15  [AS32934] 173.252.67.131 (173.252.67.131)  85.004 ms
+    [AS32934] 173.252.67.197 (173.252.67.197)  85.456 ms
+    [AS32934] 173.252.67.151 (173.252.67.151)  91.379 ms
+    [AS32934] 173.252.67.149 (173.252.67.149)  96.937 ms
+    [AS32934] 173.252.67.199 (173.252.67.199)  150.797 ms
+16  [AS32934] edge-star-mini-shv-01-iad3.facebook.com (31.13.69.228)  83.676 ms  87.932 ms  84.907 ms  94.963 ms  173.683 ms
+traceroute to www.w3.berkeley.edu (128.32.203.137), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.474 ms  0.952 ms  0.904 ms  0.942 ms  0.936 ms
+ 2  [AS7922] 96.120.90.37 (96.120.90.37)  9.432 ms * * * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  11.829 ms  16.415 ms  10.707 ms  11.456 ms  11.803 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  11.977 ms  16.185 ms  12.314 ms  12.107 ms  11.896 ms
+ 5  [AS33668] hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net (68.85.154.93)  13.954 ms
+    [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  16.494 ms
+    [AS33668] hu-0-1-0-0-ar01.hayward.ca.sfba.comcast.net (68.85.154.81)  166.141 ms
+    [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  17.016 ms  15.979 ms
+ 6  [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  12.310 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  16.292 ms
+    [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  102.583 ms
+    [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  16.761 ms
+    [AS33668] hu-0-0-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.249)  23.693 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  16.210 ms  16.290 ms  14.836 ms  29.845 ms  12.933 ms
+ 8  [AS7922] hu-0-14-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.89.230)  14.100 ms  18.573 ms  15.231 ms
+    [AS7922] hu-0-13-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.94)  13.123 ms
+    [AS7922] hu-0-10-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.86.30)  16.952 ms
+ 9  [AS33668] 66.208.233.122 (66.208.233.122)  17.622 ms  16.876 ms  16.166 ms  16.159 ms  13.289 ms
+10  [AS0] 64.57.21.5 (64.57.21.5)  14.358 ms  94.300 ms  15.379 ms  14.241 ms  14.523 ms
+11  [AS2152] dc-oak-agg4--svl-agg4-100ge.cenic.net (137.164.46.144)  15.266 ms  18.942 ms  15.396 ms  17.014 ms  27.448 ms
+12  [AS2152] ucb--oak-agg4-10g.cenic.net (137.164.50.31)  16.035 ms  19.194 ms  15.551 ms  15.724 ms  14.966 ms
+13  [AS25] t2-3.inr-201-sut.berkeley.edu (128.32.0.37)  16.117 ms
+    [AS25] t2-3.inr-202-reccev.berkeley.edu (128.32.0.39)  34.043 ms
+    [AS25] t2-3.inr-201-sut.berkeley.edu (128.32.0.37)  21.269 ms
+    [AS25] t2-3.inr-202-reccev.berkeley.edu (128.32.0.39)  19.696 ms
+    [AS25] t2-3.inr-201-sut.berkeley.edu (128.32.0.37)  19.595 ms
+14  [AS25] et3-47.inr-311-ewdc.berkeley.edu (128.32.0.103)  22.153 ms
+    [AS25] et3-48.inr-311-ewdc.berkeley.edu (128.32.0.101)  19.559 ms  21.554 ms  15.340 ms
+    [AS25] et3-47.inr-311-ewdc.berkeley.edu (128.32.0.103)  15.966 ms
+15  [AS25] calweb-farm-prod.ist.berkeley.edu (128.32.203.137)  19.952 ms  31.134 ms  15.798 ms  15.293 ms  16.017 ms
+traceroute to mercury.lcs.mit.edu (18.26.0.122), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  10.799 ms  1.202 ms  2.529 ms  1.055 ms  0.993 ms
+ 2  * * * * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  10.506 ms  13.512 ms  10.497 ms  12.213 ms  12.425 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  12.713 ms  15.641 ms  12.084 ms  14.575 ms  11.873 ms
+ 5  [AS33668] hu-0-1-0-1-ar01.hayward.ca.sfba.comcast.net (68.85.154.85)  95.729 ms
+    [AS33668] hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net (68.85.154.93)  11.878 ms
+    [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  16.885 ms
+    [AS33668] hu-0-1-0-1-ar01.hayward.ca.sfba.comcast.net (68.85.154.85)  17.005 ms
+    [AS33668] hu-0-1-0-2-ar01.hayward.ca.sfba.comcast.net (68.85.154.89)  16.168 ms
+ 6  [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  16.433 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  16.252 ms
+    [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  44.280 ms
+    [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  17.818 ms
+    [AS33668] hu-0-0-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.249)  17.086 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  18.542 ms  16.928 ms  12.404 ms  14.307 ms  12.799 ms
+ 8  [AS7922] be-10919-cr01.1601milehigh.co.ibone.comcast.net (68.86.85.154)  39.232 ms  41.851 ms  38.535 ms  39.052 ms  51.554 ms
+ 9  [AS7922] be-11719-cr02.denver.co.ibone.comcast.net (68.86.86.77)  45.935 ms  43.628 ms  194.014 ms  40.758 ms  40.566 ms
+10  [AS7922] be-10517-cr02.350ecermak.il.ibone.comcast.net (68.86.85.169)  69.529 ms  69.231 ms  154.812 ms  63.697 ms  64.053 ms
+11  [AS7922] be-7922-ar01.woburn.ma.boston.comcast.net (68.86.91.6)  92.296 ms  114.131 ms  237.019 ms  89.855 ms  91.171 ms
+12  [AS7922] 162.151.113.10 (162.151.113.10)  179.502 ms  92.732 ms  88.966 ms  94.817 ms  88.886 ms
+13  [AS7922] 50-201-57-174-static.hfc.comcastbusiness.net (50.201.57.174)  248.503 ms  95.922 ms  90.738 ms  144.882 ms  91.873 ms
+14  [AS3] dmz-rtr-1-external-rtr-3.mit.edu (18.192.7.1)  93.355 ms *  96.125 ms  92.260 ms  91.789 ms
+15  [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  173.983 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  89.657 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-1.mit.edu (18.192.2.2)  101.182 ms  89.250 ms
+    [AS3] dmz-rtr-2-dmz-rtr-1-2.mit.edu (18.192.3.2)  90.313 ms
+16  * * * * *
+17  [AS3] helicon-ext.trantor.csail.mit.edu (128.30.13.6)  93.261 ms  112.329 ms  91.318 ms  151.750 ms  90.373 ms
+18  [AS3] asperta.helicon.csail.mit.edu (128.30.0.246)  98.707 ms  93.520 ms  103.634 ms  217.405 ms *
+19  [AS3] mercury.lcs.mit.edu (18.26.0.122)  237.910 ms !Z  90.417 ms !Z  90.121 ms !Z  89.908 ms !Z  91.629 ms !Z
+traceroute: Warning: todayhumor.co.kr has multiple addresses; using 141.101.121.192
+traceroute to todayhumor.co.kr (141.101.121.192), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  157.786 ms  1.210 ms  1.252 ms  3.219 ms  1.170 ms
+ 2  * * * * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  13.219 ms  13.830 ms  10.703 ms  9.563 ms  9.693 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  11.231 ms  15.165 ms  11.561 ms  12.946 ms  28.050 ms
+ 5  [AS33668] hu-0-1-0-0-ar01.hayward.ca.sfba.comcast.net (68.85.154.81)  13.243 ms
+    [AS33668] hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net (68.85.154.93)  27.571 ms
+    [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  16.653 ms
+    [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  16.641 ms
+    [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  15.577 ms
+ 6  [AS33668] hu-0-0-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.249)  16.506 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  19.295 ms
+    [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  18.935 ms  30.843 ms
+    [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  13.028 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  17.683 ms  17.337 ms  12.760 ms  12.601 ms  12.378 ms
+ 8  [AS7922] be-10925-cr01.9greatoaks.ca.ibone.comcast.net (68.86.87.158)  30.322 ms  19.068 ms  14.710 ms  15.030 ms  17.874 ms
+ 9  [AS7922] hu-0-12-0-0-pe03.11greatoaks.ca.ibone.comcast.net (68.86.82.66)  29.260 ms  17.666 ms  23.858 ms  14.262 ms  15.345 ms
+10  [AS7922] 50.248.117.150 (50.248.117.150)  13.985 ms  32.688 ms  13.729 ms  17.045 ms  13.618 ms
+11  [AS13335] 141.101.121.192 (141.101.121.192)  15.048 ms  18.022 ms  14.356 ms  13.278 ms  14.155 ms
+traceroute to www.city.kobe.lg.jp (202.246.160.48), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.608 ms  0.901 ms  0.857 ms  0.867 ms  0.909 ms
+ 2  [AS7922] 96.120.90.37 (96.120.90.37)  13.761 ms * * * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  119.497 ms  16.108 ms  47.017 ms  40.107 ms  11.848 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  12.592 ms  47.368 ms  223.256 ms  11.767 ms  13.281 ms
+ 5  [AS33668] hu-0-1-0-2-ar01.hayward.ca.sfba.comcast.net (68.85.154.89)  13.298 ms
+    [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  16.624 ms
+    [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  16.752 ms
+    [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  15.716 ms
+    [AS33668] hu-0-1-0-3-ar01.hayward.ca.sfba.comcast.net (68.85.154.93)  30.972 ms
+ 6  [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  16.528 ms  18.102 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  13.728 ms
+    [AS33668] hu-0-0-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.249)  16.803 ms
+    [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  18.615 ms
+ 7  [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  48.748 ms  14.067 ms  14.829 ms  12.824 ms  14.064 ms
+ 8  [AS7922] hu-0-10-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.86.30)  13.787 ms
+    [AS7922] hu-0-10-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.26)  16.748 ms
+    [AS7922] hu-0-11-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.70)  16.933 ms
+    [AS7922] hu-0-10-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.26)  16.629 ms
+    [AS7922] hu-0-12-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.87.14)  17.068 ms
+ 9  [AS2516] 124.215.192.125 (124.215.192.125)  13.809 ms  27.690 ms  14.633 ms  13.325 ms  14.484 ms
+10  [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.49)  12.392 ms
+    [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.53)  17.126 ms
+    [AS2516] pajbb001.int-gw.kddi.ne.jp (111.87.3.65)  17.910 ms
+    [AS2516] pajbb002.int-gw.kddi.ne.jp (111.87.3.69)  16.749 ms  45.176 ms
+11  [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.101)  129.178 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (106.187.8.9)  229.123 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.101)  128.643 ms
+    [AS2516] obpjbb206.int-gw.kddi.ne.jp (106.187.8.9)  326.717 ms
+    [AS2516] obpjbb205.int-gw.kddi.ne.jp (203.181.100.101)  131.971 ms
+12  [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.86)  285.986 ms
+    [AS2516] jc-osa301.int-gw.kddi.ne.jp (113.157.227.114)  139.492 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.14)  271.281 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.38)  139.859 ms
+    [AS2516] jc-osa301.kddnet.ad.jp (113.157.227.10)  278.328 ms
+13  [AS2516] 125.29.30.126 (125.29.30.126)  123.049 ms  348.044 ms  120.335 ms  123.502 ms  278.631 ms
+14  [AS17511] 121.83.230.230 (121.83.230.230)  124.840 ms
+    [AS17511] 121.83.230.226 (121.83.230.226)  304.969 ms  139.621 ms  321.229 ms
+    [AS17511] 121.83.230.230 (121.83.230.230)  125.141 ms
+15  [AS17511] 121.83.231.126 (121.83.231.126)  124.142 ms
+    [AS17511] 121.83.231.122 (121.83.231.122)  130.588 ms
+    [AS17511] 121.83.231.126 (121.83.231.126)  134.704 ms
+    [AS17511] 121.83.231.122 (121.83.231.122)  158.570 ms
+    [AS17511] 121.83.231.126 (121.83.231.126)  124.569 ms
+16  [AS17511] 218.228.242.6 (218.228.242.6)  159.851 ms  129.992 ms  128.224 ms  127.908 ms  214.810 ms
+17  [AS17511] kobecity.kobe-ic.net (203.140.74.187)  131.034 ms  209.400 ms  143.100 ms  135.106 ms  135.114 ms
+18  [AS17511] 202.246.160.48 (202.246.160.48)  242.717 ms  127.405 ms  122.286 ms  221.857 ms  130.061 ms
+traceroute to piranha.ro.vutbr.cz (147.229.2.90), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.537 ms  2.372 ms  1.005 ms  2.795 ms  1.197 ms
+ 2  * * [AS7922] 96.120.90.37 (96.120.90.37)  48.883 ms  13.618 ms  9.469 ms
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  11.778 ms  14.098 ms  10.048 ms  10.581 ms  10.692 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  14.552 ms  34.399 ms  11.480 ms  11.133 ms  19.310 ms
+ 5  [AS33668] hu-0-1-0-1-ar01.hayward.ca.sfba.comcast.net (68.85.154.85)  12.114 ms
+    [AS33668] hu-0-1-0-0-ar01.hayward.ca.sfba.comcast.net (68.85.154.81)  16.027 ms  16.027 ms
+    [AS33668] hu-0-1-0-1-ar01.hayward.ca.sfba.comcast.net (68.85.154.85)  13.043 ms
+    [AS33668] hu-0-1-0-2-ar01.hayward.ca.sfba.comcast.net (68.85.154.89)  32.000 ms
+ 6  [AS7922] hu-0-0-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.145)  17.694 ms
+    [AS33668] hu-0-0-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.249)  16.531 ms  17.267 ms
+    [AS33668] hu-0-19-0-0-ar01.santaclara.ca.sfba.comcast.net (68.85.154.253)  13.018 ms
+    [AS7922] hu-0-19-0-1-ar01.santaclara.ca.sfba.comcast.net (68.85.57.177)  16.660 ms
+ 7  * * * [AS7922] be-33651-cr01.sunnyvale.ca.ibone.comcast.net (68.86.90.93)  12.835 ms  17.908 ms
+ 8  [AS7922] hu-0-10-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.26)  35.077 ms
+    [AS7922] hu-0-12-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.166)  16.457 ms
+    [AS7922] hu-0-11-0-0-pe02.529bryant.ca.ibone.comcast.net (68.86.86.70)  17.181 ms  17.186 ms
+    [AS7922] hu-0-10-0-1-pe02.529bryant.ca.ibone.comcast.net (68.86.86.30)  13.552 ms
+ 9  [AS7922] 96-87-8-2-static.hfc.comcastbusiness.net (96.87.8.2)  36.853 ms  18.109 ms  12.844 ms  13.946 ms  13.119 ms
+10  [AS1299] nyk-bb2-link.telia.net (62.115.122.37)  87.922 ms
+    [AS1299] ash-bb4-link.telia.net (62.115.122.171)  165.046 ms
+    [AS1299] ash-bb3-link.telia.net (62.115.114.80)  88.470 ms
+    [AS1299] ash-bb4-link.telia.net (62.115.123.34)  84.886 ms
+    [AS1299] ash-bb3-link.telia.net (62.115.122.87)  88.918 ms
+11  [AS1299] ffm-bb4-link.telia.net (213.155.135.56)  191.666 ms
+    [AS1299] ffm-bb3-link.telia.net (213.155.135.62)  193.590 ms
+    [AS1299] ffm-bb3-link.telia.net (62.115.139.16)  204.585 ms
+    [AS1299] ffm-bb4-link.telia.net (62.115.139.42)  197.390 ms
+    [AS1299] ffm-bb4-link.telia.net (213.155.135.60)  183.747 ms
+12  [AS1299] prag-bb1-link.telia.net (62.115.113.139)  197.341 ms
+    [AS1299] prag-bb1-link.telia.net (62.115.135.11)  198.918 ms
+    [AS1299] prag-bb1-link.telia.net (213.155.130.203)  200.060 ms
+    [AS1299] prag-bb1-link.telia.net (213.155.132.241)  204.725 ms
+    [AS1299] prag-bb1-link.telia.net (80.91.246.13)  198.748 ms
+13  [AS1299] prag-b3-link.telia.net (213.155.132.165)  204.952 ms
+    [AS1299] prag-b3-link.telia.net (62.115.117.85)  200.440 ms
+    [AS1299] prag-b3-link.telia.net (213.155.131.67)  205.694 ms
+    [AS1299] prag-b3-link.telia.net (80.91.249.128)  227.452 ms
+    [AS1299] prag-b3-link.telia.net (62.115.117.99)  203.530 ms
+14  [AS1299] cesnet-01205-prag-b3.c.telia.net (213.248.77.118)  205.257 ms  206.199 ms  203.635 ms  200.130 ms  203.603 ms
+15  [AS1299] cesnet-01205-prag-b3.c.telia.net (213.248.77.118)  208.072 ms
+    [AS2852] 195.113.235.81 (195.113.235.81)  213.837 ms  211.695 ms  213.535 ms  225.865 ms
+16  [AS5588] 62.168.32.34 (62.168.32.34)  190.287 ms  192.532 ms  190.876 ms  189.120 ms  184.784 ms
+17  [AS2852] 195.113.235.81 (195.113.235.81)  238.023 ms
+    [AS197451] pe-kou.net.vutbr.cz (147.229.252.113)  194.020 ms  189.196 ms  284.409 ms  189.253 ms
+18  [AS197451] irf-kou.net.vutbr.cz (147.229.252.214)  203.781 ms  193.565 ms  288.715 ms  202.682 ms  190.860 ms
+19  [AS197451] piranha.ro.vutbr.cz (147.229.2.90)  221.469 ms !Z  209.691 ms !Z
+    [AS197451] irf-kou.net.vutbr.cz (147.229.252.214)  194.266 ms
+    [AS197451] piranha.ro.vutbr.cz (147.229.2.90)  218.780 ms !Z  210.440 ms !Z
+traceroute to zanvarsity.ac.tz (41.204.148.1), 64 hops max, 52 byte packets
+ 1  [AS0] 192.168.0.1 (192.168.0.1)  1.563 ms  1.018 ms  0.952 ms  1.065 ms  1.194 ms
+ 2  [AS7922] 96.120.90.37 (96.120.90.37)  13.107 ms *  10.910 ms * *
+ 3  [AS33657] te-0-4-0-20-sur04.pinole.ca.sfba.comcast.net (68.85.217.249)  66.532 ms  16.131 ms  10.142 ms  10.269 ms  10.045 ms
+ 4  [AS7922] be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  13.682 ms  15.355 ms  13.596 ms  18.538 ms  13.016 ms
+ 5  [AS33668] hu-0-1-0-5-ar01.hayward.ca.sfba.comcast.net (68.85.154.225)  12.346 ms
+    [AS33668] hu-0-1-0-2-ar01.hayward.ca.sfba.comcast.net (68.85.154.89)  15.828 ms
+    [AS33668] hu-0-1-0-1-ar01.hayward.ca.sfba.comcast.net (68.85.154.85)  15.583 ms
+    [AS33668] hu-0-1-0-4-ar01.hayward.ca.sfba.comcast.net (68.85.154.77)  16.319 ms  16.510 ms
+ 6  [AS3356] lag-14.ear2.sanjose1.level3.net (4.68.72.101)  74.487 ms  21.177 ms  16.731 ms  22.186 ms  13.198 ms
+ 7  [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  177.021 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  158.981 ms
+    [AS3356] ae-116-3502.edge3.london15.level3.net (4.69.167.78)  151.607 ms
+    [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  179.738 ms
+    [AS3356] ae-115-3501.edge3.london15.level3.net (4.69.167.74)  151.889 ms
+ 8  [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  151.716 ms
+    [AS3356] ae-117-3503.edge3.london15.level3.net (4.69.167.82)  150.900 ms
+    [AS3356] ae-225-3601.edge3.london15.level3.net (4.69.167.90)  150.970 ms
+    [AS3356] ae-118-3504.edge3.london15.level3.net (4.69.167.86)  151.589 ms
+    [AS3356] ae-226-3602.edge3.london15.level3.net (4.69.167.94)  151.355 ms
+ 9  [AS9057] wananchi-gr.edge3.london15.level3.net (212.113.9.182)  160.571 ms  232.021 ms  159.566 ms  231.811 ms  169.307 ms
+10  [AS15399] 238.2.212.41.in-addr.arpa (41.212.2.238)  164.299 ms  262.708 ms  188.249 ms  204.645 ms  198.535 ms
+11  [AS15399] 82.2.212.41.in-addr.arpa (41.212.2.82)  294.061 ms  301.481 ms  384.351 ms  360.967 ms  293.792 ms
+12  [AS36930] 41.204.128.169 (41.204.128.169)  359.280 ms  352.886 ms  312.462 ms  301.586 ms  410.943 ms
+13  [AS0] 10.50.0.65 (10.50.0.65)  293.791 ms  293.214 ms  303.811 ms  374.758 ms  383.520 ms
+14  [AS36930] 41.204.148.5 (41.204.148.5)  409.885 ms  356.478 ms * * *
+15  [AS36930] 41.204.148.1 (41.204.148.1)  301.944 ms  295.879 ms  314.277 ms  409.552 ms  307.655 ms
